@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Olá eu sou a Maria Clara Sanchez!
+## <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Olá, eu sou a Maria Clara Sanchez!
 <div align="center">
   <a href="https://github.com/MariaClaraSanchez">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaClaraSanchez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
