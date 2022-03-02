@@ -1,16 +1,27 @@
-###  
+## <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Olá eu sou a Maria Clara Sanchez!
+<div align="center">
+  <a href="https://github.com/MariaClaraSanchez">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaClaraSanchez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClaraSanchez&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Maria Sanchez </h1>
-<h3 align = "center">A Computer Engineering Student </h3>
+## 💻 Tecnologias que eu uso Tecnologias que eu mais utilizo
   
-- 🔭 I’m currently Studying in IFSULDEMINAS
-- 🌱 I’m currently learning C/C++ , Pyhton , HTML , CSS , JAVASCRIPT
-- 🤔 I’m looking for help with Pyhton, JAVASCRIPT
-- 💬 Ask me about C/C++
-- 📫 How to reach me **clarasanchez233@gmail.com**
-
-<p align="center">
-<a href="https://www.linkedin.com/in/maria-clara-sanchez-966a6116b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://www.facebook.com/profile.php?id=100001883076432" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://www.instagram.com/maaah_sanchez/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maykbrito" height="20" width="20" /></a>
-</p>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  
+## 🥳 Minhas redes: 
+ 
+<div> 
+    <a href="https://www.linkedin.com/in/maria-clara-sanchez-966a6116b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/maaah_sanchez/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mariasanchez.eng@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+  ![Snake animation](https://github.com/MariaClaraSanchez/MariaClaraSanchez/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
