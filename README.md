@@ -1,11 +1,14 @@
 ## <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Hi, I'm Maria Clara Sanchez!
+
+### Backend focused **Full Stack Developer** passionate about building scalable applications and turning complex problems into elegant solutions.  
+
 <div align="center">
   <a href="https://github.com/MariaClaraSanchez">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaClaraSanchez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClaraSanchez&layout=compact&langs_count=10&theme=tokyonight"/>
 </div>
 
-## 💻 Tecnologias que eu mais utilizo
+## 💻 Technologies & Tools
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Maria - Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -24,7 +27,7 @@
                                                                                                                           
 </div>
   
-## 🥳 Minhas redes: 
+## 🥳 Connect with me: 
  
 <div> 
     <a href="https://www.linkedin.com/in/maria-clara-sanchez-966a6116b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
