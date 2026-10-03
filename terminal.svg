@@ -1,1 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="310" viewBox="0 0 640 310" role="img" aria-label="curl -s /api/profile returning Maria Clara Sanchez's profile as JSON">
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 14px; fill: #edebe6; white-space: pre; }
+    .dim { fill: #9297a8; }
+    .label { fill: #6b7080; font-size: 12px; }
+    .prompt { fill: #e8ac4d; }
+    .k { fill: #63b8b8; }
+    .s { fill: #e8ac4d; }
+    .n { fill: #7fd99a; }
 
+    /* comando sendo digitado: um retângulo da cor do fundo desliza revelando o texto */
+    .cover { animation: type 1.1s steps(22) 0.3s forwards; }
+    @keyframes type { to { transform: translateX(190px); } }
+
+    /* linhas do JSON aparecendo uma a uma */
+    .l { opacity: 0; animation: show 0.01s linear forwards; }
+    @keyframes show { to { opacity: 1; } }
+
+    .cursor { opacity: 0; animation: show 0.01s linear 3.4s forwards, blink 1s step-end 3.4s infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+
+    @media (prefers-reduced-motion: reduce) {
+      .cover { display: none; }
+      .l, .cursor { opacity: 1; animation: none; }
+    }
+  </style>
+
+  <!-- janela -->
+  <rect x="0.5" y="0.5" width="639" height="309" rx="14" fill="#0f1117" stroke="#2b3040"/>
+  <path d="M0.5 36 V14.5 A14 14 0 0 1 14.5 0.5 H625.5 A14 14 0 0 1 639.5 14.5 V36 Z" fill="#1d212c" stroke="#2b3040"/>
+  <circle cx="22" cy="18" r="5" fill="#2b3040"/>
+  <circle cx="40" cy="18" r="5" fill="#2b3040"/>
+  <circle cx="58" cy="18" r="5" fill="#2b3040"/>
+  <text x="74" y="22" class="label">zsh</text>
+
+  <!-- comando -->
+  <text x="24" y="70" class="dim"><tspan class="prompt">$</tspan> curl -s /api/profile</text>
+  <rect class="cover" x="40" y="54" width="200" height="22" fill="#0f1117"/>
+
+  <!-- resposta -->
+  <text x="24" y="104" class="l" style="animation-delay:1.7s">{</text>
+  <text x="24" y="126" class="l" style="animation-delay:1.85s">  <tspan class="k">"name"</tspan>: <tspan class="s">"Maria Clara Sanchez"</tspan>,</text>
+  <text x="24" y="148" class="l" style="animation-delay:2.0s">  <tspan class="k">"role"</tspan>: <tspan class="s">"Backend Software Engineer"</tspan>,</text>
+  <text x="24" y="170" class="l" style="animation-delay:2.15s">  <tspan class="k">"company"</tspan>: <tspan class="s">"CI&amp;T"</tspan>,</text>
+  <text x="24" y="192" class="l" style="animation-delay:2.3s">  <tspan class="k">"focus"</tspan>: [<tspan class="s">"backend"</tspan>, <tspan class="s">"apis"</tspan>, <tspan class="s">"microservices"</tspan>,</text>
+  <text x="24" y="214" class="l" style="animation-delay:2.45s">            <tspan class="s">"distributed systems"</tspan>, <tspan class="s">"cloud"</tspan>, <tspan class="s">"clean architecture"</tspan>],</text>
+  <text x="24" y="236" class="l" style="animation-delay:2.6s">  <tspan class="k">"status"</tspan>: <tspan class="n">200</tspan>,</text>
+  <text x="24" y="258" class="l" style="animation-delay:2.75s">  <tspan class="k">"ok"</tspan>: <tspan class="n">true</tspan></text>
+  <text x="24" y="280" class="l" style="animation-delay:2.9s">}</text>
+  <rect class="cursor" x="36" y="266" width="7" height="17" fill="#e8ac4d"/>
+</svg>
